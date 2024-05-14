@@ -10,9 +10,9 @@ display: inline-block;
 
 }
 
-.cabecalho-lista-item {
+.cabecalho-lista {
 display: inline-block;
-margin: 0, 2000;
-width: 30px ;
+margin: 0, 200;
+width: 30px;
 
 }
