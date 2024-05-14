@@ -6,4 +6,5 @@ header {
 }
 .cabecalho-imagem{
 width: 2000px;
+display: inline-block;
 }
