@@ -1,11 +1,10 @@
 header {
     background-color: #424E61;
-    color: white;
+    color: #424E61;
     display: flex;
     justify-content: space-around;
 }
 .cabecalho-imagem{
 width: 1200px;
-height: 200px;
 display: inline-block;
 }
