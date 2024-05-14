@@ -11,9 +11,9 @@ display: inline-block;
 
 }
 
-.cabecalho-lista {
+.cabecalho-lista-item {
 display: inline-block;
 margin: 200, 200;
-width: 30px;
+
 
 }
