@@ -3,6 +3,7 @@ header {
     color: rgb(255, 255, 255);
     display: flex;
     justify-content: space-around;
+    align-items: center;
 }
 
 .cabecalho-imagem{
@@ -13,7 +14,7 @@ display: inline-block;
 
 .cabecalho-lista-item {
 display: inline-block;
-margin: 1000, 500;
+margin: 1000 500;
 
 
 }
