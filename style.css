@@ -37,7 +37,6 @@ display: flex;
 justify-content: center;
 }
 
-.escola-div-conteudo {
-font-size: large;
-
+.escola-titulo {
+font-size: larger;
 }
