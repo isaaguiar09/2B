@@ -27,5 +27,10 @@ font-size: 60px;
 }
 
 .img2 {
-width:1200;
+width: 1200;
+}
+
+.escola {
+background-color: linear-gradient (#424E61,rgb(41, 147, 213));
+color: white;
 }
