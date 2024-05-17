@@ -44,11 +44,8 @@ justify-content: center;
 margin: 80 30;
 padding-top: 400px;
 font-size: 80px;
-.pt-sans-narrow-bold {
-    font-family: "PT Sans Narrow", sans-serif;
-    font-weight: 700;
-    font-style: normal;
-  }
+font-family: "PT Sans Narrow", sans-serif;
+font-weight: 700;
 }
 
 .escola-texto-1{
