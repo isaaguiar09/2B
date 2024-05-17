@@ -44,8 +44,9 @@ justify-content: center;
 margin: 80 30;
 padding-top: 400px;
 font-size: 80px;
-font-family: "PT Sans Narrow", sans-serif;
-font-weight: 700;
+font-family: "Averia Libre", system-ui;
+  font-weight: 700;
+  font-style: normal;
 }
 
 .escola-texto-1{
