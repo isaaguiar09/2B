@@ -71,7 +71,7 @@ font-size: 60px
 
   .contato-titulo {
     background-clip: border-box;
-    background: #c80303;
+    background: linear-gradient(rgb(162, 1, 1), rgb(250, 30, 30));
     text-align: center;
     padding-top: 150px;
     font-size: 100px;
