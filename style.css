@@ -68,6 +68,7 @@ font-size: 60px
   padding-left: 1000px;
   justify-content: left;
   padding-bottom: 300px;
+  position: absolute;
   }
 
   .contato-titulo {
@@ -88,8 +89,7 @@ font-size: 60px
   .img4 {
     width: 900px;
     display: inline-block;
-    padding-bottom: 800px;
-    padding-right: 3000px;
+    position: relative;
   }
   
 
