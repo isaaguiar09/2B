@@ -85,3 +85,14 @@ font-size: 60px
     color: white;
   }
 
+  .img3 {
+    width: 900px;
+    display: inline-block;
+    padding-left: 1000px;
+    justify-content: left;
+    padding-bottom: 300px;
+    z-index: 3;
+
+    }
+  
+
