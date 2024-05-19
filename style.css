@@ -88,9 +88,8 @@ font-size: 60px
   .img4 {
     width: 900px;
     display: inline-block;
-    align-items: var(.img3);
-    z-index: 3;
-    
+    padding-bottom: 50px;
+    padding-right: 1000px;
   }
   
 
