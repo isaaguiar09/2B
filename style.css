@@ -79,3 +79,12 @@ font-size: 60px
 
     }
 
+    .contato {
+      background-color: #424E61;
+      color: rgb(255, 255, 255);
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      padding: 30px 0;
+  }
+
