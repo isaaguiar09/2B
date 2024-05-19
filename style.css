@@ -68,7 +68,7 @@ font-size: 60px
   padding-left: 1000px;
   justify-content: left;
   padding-bottom: 300px;
-  
+
   }
 
   .contato-titulo {
@@ -83,13 +83,8 @@ font-size: 60px
 
     .contato {
     background-color: #394d70;
-    color: white;
-  }
-
-  .img4 {
-    width: 900px;
-    display: inline-block;
-
-  }
+    color: white; 
+    
+}
   
 
