@@ -41,7 +41,7 @@
 .escola-titulo {
   margin: 80 30;
   padding-top: 100px;
-  padding-left: 100px;
+  padding-left: 200px;
   font-size: 18px;
   font-family: "Averia Libre", system-ui;
   font-weight: 700;
@@ -49,6 +49,7 @@
 }
 
 .escola-conteudo {
+  padding-top: 500px;
 }
 
 .escola-texto-1 {
