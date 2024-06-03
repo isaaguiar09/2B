@@ -50,8 +50,7 @@
 
 .escola-texto-1 {
   font-size: 17px;
-  display: flex;
-  display: inline-block;
+  align-self: flex-start;
 }
 
 .escola-texto-2 {
