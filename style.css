@@ -26,7 +26,7 @@
 .img2 {
   width: 450;
   height: 300;
-  padding-left: 90px;
+  padding-left: 50px;
   padding-top: 150px;
   padding-bottom: 150px;
 }
@@ -41,7 +41,7 @@
 .escola-titulo {
   margin: 80 30;
   padding-top: 100px;
-  padding-left: 80px;
+  padding-left: 50px;
   font-size: 18px;
   font-family: "Averia Libre", system-ui;
   font-weight: 700;
