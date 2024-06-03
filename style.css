@@ -48,22 +48,21 @@
   font-style: normal;
 }
 
+.escola-conteudo {
+  padding-bottom: 200px;
+  padding-left: 110px;
+}
+
 .escola-texto-1 {
   font-size: 17px;
-  padding-left: 130px;
-  padding-bottom: 50px;
 }
 
 .escola-texto-2 {
   font-size: 17px;
-  padding-left: 130px;
-  padding-bottom: 50px;
 }
 
 .escola-texto-3 {
   font-size: 17px;
-  padding-left: 130px;
-  padding-bottom: 50px;
 }
 
 .img3 {
