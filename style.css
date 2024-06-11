@@ -82,5 +82,7 @@
 .contato {
   background-color: #394d70;
   color: white;
+  display: flex;
+  justify-content: center;
 
 }
