@@ -79,10 +79,14 @@
 
 }
 
-.rodape {
+.rodape{
   background-color: #394d70;
   color: white;
   display: flex;
   justify-content: center;
-  padding-top: 100;
+  padding-top: 15px;
+}
+
+.escola-div-rodape {
+  padding-top: 15px;
 }
