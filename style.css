@@ -93,9 +93,9 @@
 
 .rodape2 {
   background-color: #4e4e4f;
-  height: 200;
+  height: 100;
   display: flex;
-  justify-content:space-around;
+  justify-content: center;
 }
 
 .img4 {
