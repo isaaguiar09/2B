@@ -92,12 +92,10 @@
 }
 
 .rodape2 {
-  background-color: #7f7f81;
+  background-color: linear-gradient(#4c4d4e, #61676a);
   height: 100;
   display: flex;
   justify-content: center;
-  box-shadow: 0 100px 5px black;
-  
 }
 
 .img4 {
