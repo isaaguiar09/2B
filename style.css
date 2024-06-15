@@ -92,7 +92,7 @@
 }
 
 .rodape2 {
-  background: linear-gradient(rgb(129, 1, 1), rgb(250, 30, 30));
+  background: linear-gradient(rgb(68, 68, 68), rgb(139, 138, 138));
   height: 100;
   display: flex;
   justify-content: center;
@@ -109,9 +109,9 @@
 }
 
 .img6 {
-  width: 75;
-  height: 70;
-  margin: 10 10;
+  width: 69;
+  height: 67;
+  margin: 15 12;
 }
 
 
