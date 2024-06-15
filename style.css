@@ -92,7 +92,7 @@
 }
 
 .rodape2 {
-  background-color: linear-gradient(#a0040e, #ff0505);
+  background: linear-gradient(rgb(162, 1, 1), rgb(250, 30, 30));
   height: 100;
   display: flex;
   justify-content: center;
