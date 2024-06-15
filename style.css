@@ -3,10 +3,6 @@
   padding: 0;
 }
 
-html {
-  scroll-behavior: smooth;
-}
-
 .cabecalho {
   background-color: #424E61;
   color: rgb(255, 255, 255);
@@ -27,6 +23,7 @@ html {
   margin: 0 16px;
   font-size: 20px;
   color: white;
+  scroll-behavior: smooth;
 }
 
 .img2 {
