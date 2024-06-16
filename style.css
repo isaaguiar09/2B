@@ -100,9 +100,9 @@ body {
 .divulgacao-titulo {
   background-clip: border-box;
   background: linear-gradient(rgb(162, 1, 1), rgb(250, 30, 30));
-  box-shadow: -1px 3px 5px 0px rgba(0,0,0,0.75);
--webkit-box-shadow: -1px 3px 5px 0px rgba(0,0,0,0.75);
--moz-box-shadow: -1px 3px 5px 0px rgba(0,0,0,0.75);
+  box-shadow: -1px 3px 5px 0px rgba(0,0,0,0.89);
+-webkit-box-shadow: -1px 3px 5px 0px rgba(0,0,0,0.89);
+-moz-box-shadow: -1px 3px 5px 0px rgba(0,0,0,0.89);
   text-align: center;
   font-size: 20px;
   font-family: "Averia Libre", system-ui;
