@@ -114,15 +114,16 @@ body {
   justify-content: center;
   height: 308.98;
 }
-
+ 
 
 .rodape2 {
   background: linear-gradient(rgb(68, 68, 68), rgb(139, 138, 138));
   height: 100;
   display: flex;
   justify-content: center;
-  border-radius: 100;
-  
+  border-top: 5px;
+  border-top-color: rgb(162, 1, 1);
+
 }
 
 .img4 {
