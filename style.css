@@ -121,6 +121,7 @@ body {
   height: 100;
   display: flex;
   justify-content: center;
+  background-clip: border-box;
 }
 
 .img4 {
