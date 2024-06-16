@@ -121,9 +121,7 @@ body {
   height: 100;
   display: flex;
   justify-content: center;
-  border-top: 5px;
-  border-top-color: rgb(162, 1, 1);
-
+  border-top: 5px solid rgb(162, 1, 1);
 }
 
 .img4 {
