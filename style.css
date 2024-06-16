@@ -121,7 +121,8 @@ body {
   height: 100;
   display: flex;
   justify-content: center;
-  background-clip: border-box;
+  background-clip: content-box;
+  background-color: rgb(162, 1, 1);
 }
 
 .img4 {
