@@ -3,10 +3,6 @@
   padding: 0;
 }
 
-body {
-  scroll-padding-top: 1.25rem;
-}
-
 .cabecalho {
   background-color: #424E61;
   display: flex;
@@ -19,7 +15,6 @@ body {
 .cabecalho-imagem {
   width: 200px;
   display: inline-block;
-  
 }
 
 .cabecalho-lista-item {
