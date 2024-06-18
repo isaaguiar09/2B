@@ -17,13 +17,16 @@
   display: inline-block;
 }
 
+.cabecalho-lista {
+  color: white;
+}
+
 .cabecalho-lista-item {
   display: inline-block;
   margin: 0 16px;
   font-size: 20px;
   color: white;
-  text-decoration-color: white;
-}
+  }
 
 .cabecalho-lista-item:hover {
 text-decoration: underline;
