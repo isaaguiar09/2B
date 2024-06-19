@@ -3,10 +3,6 @@
   padding: 0;
 }  
 
-.html {
-  scroll-behavior: smooth;
-}
-
 .cabecalho {
   background-color: #424E61;
   display: flex;
