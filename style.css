@@ -33,6 +33,9 @@ a {
   font-size: 23px;
   color:rgb(204, 24, 24);
   text-decoration: underline;
+  box-shadow: 0 0 5px rgb(204, 24, 24),
+  0 0 25px rgb(204, 24, 24), 0 0 50px,
+  0 0 100px rgb(204, 24, 24), 0 0 200px rgb(204, 24, 24);
 }
 
 .img2 {
