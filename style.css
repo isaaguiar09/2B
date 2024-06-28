@@ -27,8 +27,8 @@ a {
   font-size: 20px;
   transition: text-decoration 0.3 ease-in-out;
   transition: font-size 0.3s ease-in-out;
-  box-shadow: 0 0 5px rgb(204, 24, 24),
-  0 0 25px rgb(204, 24, 24);
+  background-clip: border-box;
+  background: rgb(162, 1, 1) 50px;
 }
 
 .cabecalho-lista-item:hover {
