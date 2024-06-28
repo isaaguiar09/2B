@@ -27,8 +27,8 @@ a {
   font-size: 20px;
   transition: text-decoration 0.3 ease-in-out;
   transition: font-size 0.3s ease-in-out;
-  background-clip: border-box 70px;
-  background: rgb(162, 1, 1);
+  background-clip: border-box;
+  background: rgba(162, 1, 1, 0.603)
 }
 
 .cabecalho-lista-item:hover {
@@ -141,7 +141,7 @@ font-size: 15px;
 .estaquiaimg {
  height: 300px;
  margin: 2;
- -webkit-mask-image: linear-gradient(to bottom, black 87%, transparent);
+-webkit-mask-image: linear-gradient(to bottom, black 87%, transparent);
 }
 
 .etapa1 {
