@@ -3,6 +3,10 @@
   padding: 0;
 }  
 
+a {
+  text-decoration: none;
+}
+
 .cabecalho {
   background-color: #424E61;
   display: flex;
@@ -21,7 +25,6 @@
   display: inline-block;
   margin: 0 16px;
   font-size: 20px;
-  text-decoration: none;
   transition: text-decoration 0.3 ease-in-out;
   transition: font-size 0.3s ease-in-out;
 }
