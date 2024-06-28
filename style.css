@@ -30,7 +30,10 @@
 }
 
 .cabecalho-lista-item:hover {
-  font-size: 24px;
+  font-size: 23px;
+}
+
+a:hover {
   color: rgb(250, 30, 30);
 }
 
