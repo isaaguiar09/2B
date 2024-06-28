@@ -29,12 +29,9 @@
   transition: font-size 0.3s ease-in-out;
 }
 
-.cabecalho-lista-item:hover {
+.cabecalho-lista:hover {
   font-size: 23px;
-}
-
-a:hover {
-  color: rgb(250, 30, 30);
+  color:rgb(204, 24, 24)
 }
 
 .img2 {
