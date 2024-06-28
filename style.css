@@ -141,7 +141,7 @@ font-size: 15px;
 .estaquiaimg {
  height: 300px;
  margin: 2;
- mask-image: linear-gradient(bottom, transparent 2%);
+ -webkit-mask-image: linear-gradient(to bottom, black 87%, transparent);
 }
 
 .etapa1 {
