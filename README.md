@@ -5,4 +5,7 @@
 Google Maps!!!
 
 
+ ( Os créditos da imagens usadas durante o projeto estão localizadas no arquivo "index.html" )
+
+
   
