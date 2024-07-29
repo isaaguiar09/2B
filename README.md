@@ -6,5 +6,7 @@ Google Maps!!!
 
  ( Os créditos da imagens usadas durante o projeto estão localizadas no arquivo "index.html" )
 
+ (!!) Inspiração para realização do projeto: https://github.com/alura-cursos/site-criativo-alura.git (!!)
+
 
   
